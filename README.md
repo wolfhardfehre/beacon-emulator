@@ -57,7 +57,7 @@ sudo python3 eddystone_uid.py [-N|--namespace=namespace (10-byte, default=fedcba
 
 ### About
       
-* [Information about Kontakt Scan Response]
+* [Information about Kontakt Scan Response][KONTAKT SCAN RESPONSE]
 
 ### Example
 
